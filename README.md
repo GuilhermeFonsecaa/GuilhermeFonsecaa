@@ -1,7 +1,7 @@
 ### Olá eu sou o Guilherme 👋
 
 - 👨‍💻 Apaixonado por programação
-- 📚 Estudante de Sistemas de Informação 7/8
+- 📚 Estudante de Sistemas de Informação 8/8
 
 <div align="center">
   <a href="https://github.com/GuilhermeFonsecaa">
