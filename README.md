@@ -15,8 +15,12 @@
  <img align="center" alt="Guilherme-CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Guilherme-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Guilherme-React" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Guilherme-Next" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+ <img align="center" alt="Guilherme-Node" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
  <img align="center" alt="Guilherme-TypeScript" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+   <img align="center" alt="Guilherme-Prisma" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"/>
+  <img align="center" alt="Guilherme-Tailwind" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
  <img align="center" alt="Guilherme-Sass" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img align="center" alt="Guilherme-Bootstrap" height="30" width="40" 
@@ -28,8 +32,6 @@
  <img align="center" alt="Guilherme-Git" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
  <img align="center" alt="Guilherme-Vscode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img align="center" alt="Guilherme-Canva" height="30" width="40" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   </div>
   
 ##
