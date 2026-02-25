@@ -1,14 +1,14 @@
-### Olá eu sou o Guilherme 👋
+### Hi, I'm Guilherme. 👋
 
 - 📚 Full Stack Developer
+- 📈 Mid-Level Developer
 
-<div align="center">
-  <a href="https://github.com/GuilhermeFonsecaa">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFonsecaa&theme=blue-green"/>
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFonsecaa&theme=blue-green"/>
+<div align="start">
+    <img width="700" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GuilhermeFonsecaa&theme=blue-green"/>
+    <img width="300" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFonsecaa&theme=blue-green"/>
 </div>
- 
-  ### Tecnologias que utilizo
+
+  ### Tech Stack
  <div style="display: inline_block">
  <img align="center" alt="Guilherme-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Guilherme-CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
