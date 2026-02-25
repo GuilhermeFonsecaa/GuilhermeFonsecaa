@@ -4,7 +4,7 @@
 - 📈 Mid-Level Developer
 
 <div align="start">
-    <img width="700" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GuilhermeFonsecaa&theme=blue-green"/>
+    <img width="500" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GuilhermeFonsecaa&theme=blue-green"/>
     <img width="300" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFonsecaa&theme=blue-green"/>
 </div>
 
